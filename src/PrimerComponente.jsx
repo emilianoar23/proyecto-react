@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 export const PrimerComponente = () => {
     return (
         <>
